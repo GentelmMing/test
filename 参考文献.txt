@@ -8,8 +8,7 @@
 [7] McNamara, Kevin．Raspberry Pi becomes a complete computer, with Arduino [J]，Electronics Weekly,，2014 (2563), pp.8
 [8] 周明．物联网应用若干关键问题的研究[D]，北京邮电大学，2014
 [9] 高静．单片机AT89C51机房温湿度检测系统研究[J]，辽宁工程职业学院电子工程系，2013
-[10] Xiaopu Shang, Runtong Zhang, Xiaomin Zhu, Quan Zhou．Design theory, modelling and the application for the Internet of Things service [J]，Institute of Information Systems, Beijing Jiaotong University，2016
-[11] 张雁琳．基于Arduino的ZigBee无线传感节点的硬件设计[J],北京工业大学，2015
+[10] mini test
 [12] 官家瑶，祝淑琼，李云峰，彭克勤．浅谈LCD1602液晶屏在Arduino上的使用方法[J],北京信息科技大学计算机学院，2015，10
 [13] 马宏坤．51系列单片机C语言应用[J]，中通服节能技术服务有限公司，2016
 [14] 李长英，郑永猛，谷玉奎．一种基于移动P2P平台的无线传感器网络体系结构[J]，山东省鲁南工程技术研究院管理中心，2016
@@ -19,4 +18,5 @@
 [18] 鞠睿，朱玉华．无线移动通信以及物联网应用浅析[J]，中国移动通信集团设计院有限公司黑龙江分公司，2015, 04-21
 [19] 朱泽安，陈志航．基于Arduino的多场景PM2.5检测仪[J]，厦门大学嘉庚学院，2015
 [20] 温浩杰，丁京杰．WiFi技术在医院物联网中的应用研究[J]，南京军区南京总医院信息科，2015，07-28
-[21] 葛付伟．物联网中的RFID技术及物联网的构建[J]，南开大学滨海学院，2015，12-24
+[21] 葛付伟．物联网中的RFID技术及物联网的构建[J]，尝试修改，2015，12-24
+[22] 尝试增加
